@@ -1,5 +1,7 @@
 module nyanbook
 
-greet() = print("Hello World!")
+function hello()
+    println("printed something")
+end
 
-end # module
+end
