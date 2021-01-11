@@ -1,0 +1,4 @@
+name = "nyanbook"
+uuid = "b193df1d-509b-42a0-aaed-43ad0707c6e7"
+authors = ["David Conner <dconner.pro@gmail.com>"]
+version = "0.1.0"
