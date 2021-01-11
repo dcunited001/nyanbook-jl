@@ -6,10 +6,9 @@ Basically a project to get started with the tooling.
 
 ### Images
 
+- [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/)
 - [Jupyter/datascience-notebook](https://github.com/jupyter/datascience-notebook)
 - [GPU Jupyter](https://github.com/iot-salzburg/gpu-jupyter)
-
-
 
 
 ## Notebook Setup 
