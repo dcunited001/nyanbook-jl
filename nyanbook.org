@@ -1,0 +1,14 @@
+
+Insert a `yasnippet` org-mode code block with `<s [TAB]`
+
+#+begin_src jupyter-julia :session jl :async yes
+
+using Catlab.WiringDiagrams, Catlab.Graphics
+using Catlab.Theories
+
+A, B = Ob(FreeSymmetricMonoidalCategory, :A, :B)
+f = Hom(:f, A, B)
+g = Hom(:g, B, A)
+h = Hom(:h, otimes(A,B), otimes(A,B));
+
+#+end_src
